@@ -1,0 +1,20 @@
+div{
+    margin:10px
+}
+
+button{
+    padding:10px 30px;
+    width:50vw;
+    font-size: 32px;
+    background: orangered;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    border: none;
+    border-radius: 7px;
+    outline: none;
+    position:fixed;
+    top:0;
+    right:0;
+
+}
